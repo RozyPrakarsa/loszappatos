@@ -1,0 +1,19 @@
+[
+    {
+        "Toko":"los-zapatos2",
+        "info":{
+                "Website":"loszapatos.co.id",
+                "Alamat":"perum elite banyuwangi",
+                "Kontak":"089623847945",
+                "TahunBerdiri":"2021"
+
+        },
+        "Produk":{
+                "Sepatu":"NIKE,REEBOK,ADIDAS",
+                "Type1":"Running",
+                "Type2":"Basketball",
+                "Type3":"Casual"
+        }
+    }
+]
+    
